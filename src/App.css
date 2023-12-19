@@ -1,0 +1,9 @@
+nav ul {
+  display: flex;
+  gap: 10px;
+  list-style-type: none;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 0.5rem;
+  font-size: 1.15rem;
+}
